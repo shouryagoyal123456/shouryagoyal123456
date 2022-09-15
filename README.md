@@ -1,8 +1,5 @@
 ### I am Shourya Goyal
 
-<!--
-**shouryagoyal123456/shouryagoyal123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About me:
 
 - 🔭 I’m currently working on JAVA & Data Structure and Algorithm
